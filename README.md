@@ -1,7 +1,7 @@
 # Calculator
 Tahap pengembangan
 mohon maaf jika ada kendala
-##Follow sosial media DemtimCod
+###Follow sosial media DemtimCod
 - **[Tik Tok](tiktok.com/@ceo_demtimcod)**
 
 - **[Instagram](https://www.instagram.com/ceo_demtimcod/)**
