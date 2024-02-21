@@ -6,4 +6,5 @@ masih nunggu mod baik 😑 buat nge fiks nya 👍👍
 <hr/>
 
 btw reponya ini belum di update
+* hosting by replit no run no running
 * Terima kasih 🙏💕
